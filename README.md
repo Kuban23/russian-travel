@@ -17,7 +17,7 @@
  * до 768px мобильные телефоны.
 
 ### Проект опубликован:
-https://github.com/Kuban23/russian-travel
+https://kuban23.github.io/russian-travel/
 
 ### Макет проекта
 https://code.s3.yandex.net/web-developer/project-2/Russia-desktop-and-mobile.fig

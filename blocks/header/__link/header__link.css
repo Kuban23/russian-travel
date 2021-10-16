@@ -1,23 +1,23 @@
 .header__link {
-  width: 30px;
-  height: 28px;
+  /* width: 30px;
+  height: 28px; */
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
   color: #FFFFFF;
   text-decoration: none;
   transition: opacity 0.5s ease-in-out;
+  padding-left: 18px;
 }
 
-.header__link:hover {
-  opacity: 0.51;
-}
-
+/* .header__link:hover {
+  opacity: 0.8;
+} */
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .header__link {
-    width: 22px;
-    height: 20px;
+    /* width: 22px;
+    height: 20px; */
     font-size: 18px;
     line-height: 20px;
   }
